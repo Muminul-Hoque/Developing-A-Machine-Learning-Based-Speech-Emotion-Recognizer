@@ -1,0 +1,2 @@
+# Developing-A-Machine-Learning-Based-Speech-Emotion-Recognizer
+ Speech Emotion Recognition (SER) has become an important field of  study with the goal of automatically identifying and interpreting emotional states from speech  signals. This study provides a thorough introduction to sentiment analysis (SER),  emphasizing the use of deep learning methods for precise and effective emotion  identification
